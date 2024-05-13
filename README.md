@@ -6,3 +6,5 @@ It contains 3 pages:
 1. Home page (all todos are listed with update, delete, completion buttons).
 2. Completed Todos
 3. Create Todos
+
+Live URL - https://blueberry123.pythonanywhere.com/
